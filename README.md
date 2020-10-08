@@ -24,4 +24,4 @@ Toda colaboração para o debate é bem vinda. Deixe seu comentário!
 
 Esse template serve para registrar eventos e campanhas realizadas (como cursos) pela Meninas em TI Irlanda. Essas são Issues sob a etiqueta "evento" associada a do grupo de trabalho correspondente.
 
-Nas issues abertas estão as propostas de atividades a ser promovida em nome da rede de comunidades de Meninas em TI Irlanda ou campanha publicitária para divulgação de alguma ação. Logo após a conclusão da atividade ou atendimento da demanda, a issue deve ser fechada.
+Nas issues abertas estão as propostas de atividades a ser promovida em nome da rede de comunidades de Meninas em TI Irlanda ou campanha para divulgação de alguma ação. Logo após a conclusão da atividade ou atendimento da demanda, a issue deve ser fechada.
